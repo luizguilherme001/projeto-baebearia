@@ -1,9 +1,15 @@
-p {
-	text-align: center; 
-} 
-	
-body{
+body {
+    
+  background: #CCCCCC ;
+ 
+ }
 
-	background: #CCCCCC;
+  p{
+              text-aling: center;
+ }
 
+em strong {
+
+    color: green;
 }
+
