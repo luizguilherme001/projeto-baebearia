@@ -4,12 +4,23 @@ body {
  
  }
 
-  p{
+ #banner {
+  
+ }
+
+h1{
+    text-align: center
+}
+  p {
               text-aling: center;
  }
 
-em strong {
+#missao {
+    font-size: 20px;
 
-    color: green;
 }
 
+em strong {
+
+  color: green;
+}
